@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santosh Kumar
 - 👀 I’m interested in desktop App developement.
-- 🌱 I’m currently learning web developement
+- 🌱 I’m currently learning desktop applications developement
 - 📫 How to reach me sk4587061@gmail.com
 
 <!---
